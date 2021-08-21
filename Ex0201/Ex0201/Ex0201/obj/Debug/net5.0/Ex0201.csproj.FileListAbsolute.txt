@@ -1,0 +1,16 @@
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\obj\Debug\net5.0\Ex0201.csproj.AssemblyReference.cache
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\obj\Debug\net5.0\Ex0201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\obj\Debug\net5.0\Ex0201.AssemblyInfoInputs.cache
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\obj\Debug\net5.0\Ex0201.AssemblyInfo.cs
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\obj\Debug\net5.0\Ex0201.csproj.CoreCompileInputs.cache
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\bin\Debug\net5.0\Ex0201.exe
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\bin\Debug\net5.0\Ex0201.deps.json
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\bin\Debug\net5.0\Ex0201.runtimeconfig.json
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\bin\Debug\net5.0\Ex0201.runtimeconfig.dev.json
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\bin\Debug\net5.0\Ex0201.dll
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\bin\Debug\net5.0\ref\Ex0201.dll
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\bin\Debug\net5.0\Ex0201.pdb
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\obj\Debug\net5.0\Ex0201.dll
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\obj\Debug\net5.0\ref\Ex0201.dll
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\obj\Debug\net5.0\Ex0201.pdb
+C:\Users\pzps9\Desktop\自學\Ex0201\Ex0201\Ex0201\obj\Debug\net5.0\Ex0201.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\bin\Debug\net5.0\Ex0204.exe
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\bin\Debug\net5.0\Ex0204.deps.json
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\bin\Debug\net5.0\Ex0204.runtimeconfig.json
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\bin\Debug\net5.0\Ex0204.runtimeconfig.dev.json
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\bin\Debug\net5.0\Ex0204.dll
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\bin\Debug\net5.0\ref\Ex0204.dll
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\bin\Debug\net5.0\Ex0204.pdb
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\obj\Debug\net5.0\Ex0204.csproj.AssemblyReference.cache
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\obj\Debug\net5.0\Ex0204.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\obj\Debug\net5.0\Ex0204.AssemblyInfoInputs.cache
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\obj\Debug\net5.0\Ex0204.AssemblyInfo.cs
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\obj\Debug\net5.0\Ex0204.csproj.CoreCompileInputs.cache
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\obj\Debug\net5.0\Ex0204.dll
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\obj\Debug\net5.0\ref\Ex0204.dll
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\obj\Debug\net5.0\Ex0204.pdb
+C:\Users\pzps9\Desktop\Studying\Ex0204\Ex0204\Ex0204\obj\Debug\net5.0\Ex0204.genruntimeconfig.cache

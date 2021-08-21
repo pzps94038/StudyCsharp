@@ -1,0 +1,10 @@
+C:\Users\pzps9\Desktop\Studying\Ex0202\Ex0202\Ex0202\bin\Debug\Ex0202.exe.config
+C:\Users\pzps9\Desktop\Studying\Ex0202\Ex0202\Ex0202\bin\Debug\Ex0202.exe
+C:\Users\pzps9\Desktop\Studying\Ex0202\Ex0202\Ex0202\bin\Debug\Ex0202.pdb
+C:\Users\pzps9\Desktop\Studying\Ex0202\Ex0202\Ex0202\obj\Debug\Ex0202.csproj.AssemblyReference.cache
+C:\Users\pzps9\Desktop\Studying\Ex0202\Ex0202\Ex0202\obj\Debug\Ex0202.Form1.resources
+C:\Users\pzps9\Desktop\Studying\Ex0202\Ex0202\Ex0202\obj\Debug\Ex0202.Properties.Resources.resources
+C:\Users\pzps9\Desktop\Studying\Ex0202\Ex0202\Ex0202\obj\Debug\Ex0202.csproj.GenerateResource.cache
+C:\Users\pzps9\Desktop\Studying\Ex0202\Ex0202\Ex0202\obj\Debug\Ex0202.csproj.CoreCompileInputs.cache
+C:\Users\pzps9\Desktop\Studying\Ex0202\Ex0202\Ex0202\obj\Debug\Ex0202.exe
+C:\Users\pzps9\Desktop\Studying\Ex0202\Ex0202\Ex0202\obj\Debug\Ex0202.pdb
