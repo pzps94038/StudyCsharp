@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pzps9\\Desktop\\Studying\\StudyCsharp\\Ex0301\\Ex0301\\Ex0301\\Ex0301.csproj",
-      "projectName": "Ex0301",
-      "projectPath": "C:\\Users\\pzps9\\Desktop\\Studying\\StudyCsharp\\Ex0301\\Ex0301\\Ex0301\\Ex0301.csproj",
+      "projectUniqueName": "C:\\Users\\pzps9\\Desktop\\Studying\\StudyCsharp\\Ex0303\\Ex0303\\Ex0303\\Ex0303.csproj",
+      "projectName": "Ex0303",
+      "projectPath": "C:\\Users\\pzps9\\Desktop\\Studying\\StudyCsharp\\Ex0303\\Ex0303\\Ex0303\\Ex0303.csproj",
       "packagesPath": "C:\\Users\\pzps9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pzps9\\Desktop\\Studying\\StudyCsharp\\Ex0301\\Ex0301\\Ex0301\\obj\\",
+      "outputPath": "C:\\Users\\pzps9\\Desktop\\Studying\\StudyCsharp\\Ex0303\\Ex0303\\Ex0303\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
