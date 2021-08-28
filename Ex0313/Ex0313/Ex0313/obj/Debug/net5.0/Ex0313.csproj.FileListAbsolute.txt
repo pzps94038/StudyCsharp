@@ -1,0 +1,16 @@
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\bin\Debug\net5.0\Ex0313.exe
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\bin\Debug\net5.0\Ex0313.deps.json
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\bin\Debug\net5.0\Ex0313.runtimeconfig.json
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\bin\Debug\net5.0\Ex0313.runtimeconfig.dev.json
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\bin\Debug\net5.0\Ex0313.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\bin\Debug\net5.0\ref\Ex0313.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\bin\Debug\net5.0\Ex0313.pdb
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\obj\Debug\net5.0\Ex0313.csproj.AssemblyReference.cache
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\obj\Debug\net5.0\Ex0313.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\obj\Debug\net5.0\Ex0313.AssemblyInfoInputs.cache
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\obj\Debug\net5.0\Ex0313.AssemblyInfo.cs
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\obj\Debug\net5.0\Ex0313.csproj.CoreCompileInputs.cache
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\obj\Debug\net5.0\Ex0313.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\obj\Debug\net5.0\ref\Ex0313.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\obj\Debug\net5.0\Ex0313.pdb
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0313\Ex0313\Ex0313\obj\Debug\net5.0\Ex0313.genruntimeconfig.cache
