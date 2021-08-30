@@ -1,0 +1,15 @@
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\bin\Debug\net5.0\Ex0505.exe
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\bin\Debug\net5.0\Ex0505.deps.json
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\bin\Debug\net5.0\Ex0505.runtimeconfig.json
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\bin\Debug\net5.0\Ex0505.runtimeconfig.dev.json
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\bin\Debug\net5.0\Ex0505.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\bin\Debug\net5.0\ref\Ex0505.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\bin\Debug\net5.0\Ex0505.pdb
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\obj\Debug\net5.0\Ex0505.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\obj\Debug\net5.0\Ex0505.AssemblyInfoInputs.cache
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\obj\Debug\net5.0\Ex0505.AssemblyInfo.cs
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\obj\Debug\net5.0\Ex0505.csproj.CoreCompileInputs.cache
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\obj\Debug\net5.0\Ex0505.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\obj\Debug\net5.0\ref\Ex0505.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\obj\Debug\net5.0\Ex0505.pdb
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0505\Ex0505\Ex0505\obj\Debug\net5.0\Ex0505.genruntimeconfig.cache
