@@ -1,0 +1,15 @@
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\obj\Debug\net5.0\Ex0512.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\obj\Debug\net5.0\Ex0512.AssemblyInfoInputs.cache
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\obj\Debug\net5.0\Ex0512.AssemblyInfo.cs
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\obj\Debug\net5.0\Ex0512.csproj.CoreCompileInputs.cache
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\bin\Debug\net5.0\Ex0512.exe
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\bin\Debug\net5.0\Ex0512.deps.json
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\bin\Debug\net5.0\Ex0512.runtimeconfig.json
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\bin\Debug\net5.0\Ex0512.runtimeconfig.dev.json
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\bin\Debug\net5.0\Ex0512.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\bin\Debug\net5.0\ref\Ex0512.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\bin\Debug\net5.0\Ex0512.pdb
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\obj\Debug\net5.0\Ex0512.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\obj\Debug\net5.0\ref\Ex0512.dll
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\obj\Debug\net5.0\Ex0512.pdb
+C:\Users\pzps9\Desktop\Studying\StudyCsharp\Ex0512\Ex0512\Ex0512\obj\Debug\net5.0\Ex0512.genruntimeconfig.cache
