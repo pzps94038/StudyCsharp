@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\bin\Debug\net5.0\Ex0611.exe
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\bin\Debug\net5.0\Ex0611.deps.json
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\bin\Debug\net5.0\Ex0611.runtimeconfig.json
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\bin\Debug\net5.0\Ex0611.runtimeconfig.dev.json
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\bin\Debug\net5.0\Ex0611.dll
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\bin\Debug\net5.0\ref\Ex0611.dll
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\bin\Debug\net5.0\Ex0611.pdb
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\obj\Debug\net5.0\Ex0611.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\obj\Debug\net5.0\Ex0611.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\obj\Debug\net5.0\Ex0611.AssemblyInfo.cs
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\obj\Debug\net5.0\Ex0611.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\obj\Debug\net5.0\Ex0611.dll
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\obj\Debug\net5.0\ref\Ex0611.dll
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\obj\Debug\net5.0\Ex0611.pdb
+C:\Users\asus\Desktop\git\StudyCsharp\Ex0611\Ex0611\Ex0611\obj\Debug\net5.0\Ex0611.genruntimeconfig.cache
